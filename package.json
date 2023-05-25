@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "lint": "markuplint ./**/*.jsx"
+  },
+  "dependencies": {
+    "next": "^13.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@markuplint/jsx-parser": "^3.7.0",
+    "@markuplint/react-spec": "^3.8.0",
+    "markuplint": "^3.10.0"
+  }
+}

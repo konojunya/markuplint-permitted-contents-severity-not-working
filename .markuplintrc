@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "markuplint:recommended-react"
+  ],
+  "parser": {
+    ".jsx$": "@markuplint/jsx-parser"
+  },
+  "specs": {
+    ".jsx$": "@markuplint/react-spec"
+  },
+  "rules": {
+    "permitted-contents": {
+      "severity": "warning"
+    }
+  }
+}

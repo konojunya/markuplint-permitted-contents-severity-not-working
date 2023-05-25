@@ -1,0 +1,1 @@
+# markuplint-permitted-contents-is-not-working
